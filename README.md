@@ -4,7 +4,7 @@
 💻 Full-Stack & Backend Developer | Military Service & IMPACT Scholarship Program  
 🌱 Exploring AI, Machine Learning & System Design  
 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com)  
-<p align="center">
+<p align="left">
   <img src="facePic.jpg" alt="Ori Yair Yaakov" width="200"/>
 </p>
 ---
