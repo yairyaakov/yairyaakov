@@ -37,9 +37,5 @@
 
 ---
 
-### 📸 Personal
-<p align="center">
-  <img src="facePic.jpg" alt="Ori Yair Yaakov" width="200"/>
-</p>
 
 
