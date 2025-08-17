@@ -3,7 +3,7 @@
 🎓 B.Sc. Computer Science @ Ariel University (Final Year)  
 💻 Full-Stack & Backend Developer | Military Service & IMPACT Scholarship Program  
 🌱 Exploring AI, Machine Learning & System Design  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ori-yair-yaakov/) | [Email](mailto:yair852258@gmail.com)  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com)  
 
 ---
 
