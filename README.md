@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ori Yair Yaakov  
 
 🎓 B.Sc. Computer Science @ Ariel University   
-💻 Full-Stack & Backend Developer | Military Service & IMPACT Scholarship Program  
+💻 Full-Stack & Backend Developer 
 🌱 Exploring AI, Machine Learning & System Design  
 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com)  
 <p align="left">
