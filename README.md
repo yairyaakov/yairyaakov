@@ -12,8 +12,7 @@
 ### 🧑‍💻 About Me
 - 👨‍🎓 GPA: 91, Dean’s List, Ariel University  
 - 💡 Experience in **Java, Python, C, C++, JavaScript, SQL**  
-- ⚡ Projects: Flower Image Classification (ML), QUIC-like Protocol, Catan Simulation, Room Management System  
-- 🎯 Interested in **Backend Development, AI, and Scalable Systems**
+- ⚡ Projects: Retrieval Augmented Generation (RAG) Service, Football Team Momentum Analysis, Facebook MCP Automation Server  
 
 ---
 
