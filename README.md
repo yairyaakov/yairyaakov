@@ -6,7 +6,7 @@
 - How to reach me [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com) 
 
 <p align="left">
-  <img src="facePic.jpg" alt="Ori Yair Yaakov" width="100"/>
+  <img align="right" src="facePic.jpg" alt="Ori Yair Yaakov" width="100"/>
 </p>
 ---
 
