@@ -9,9 +9,7 @@
 ---
 
 ### About Me
-- GPA: 91, Dean’s List, Ariel University  
-- Experience in **Java, Python, C, C++, JavaScript, SQL**
-- 
+- Computer Science graduate and Dean's List recipient with interests in backend development, RAG, and System Design.
 ### Featured Projects
 
 | Project | Description |
