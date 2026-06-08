@@ -1,5 +1,5 @@
-# Hi 👋, I'm Ori Yair Yaakov  
- Backend Development • RAG • Networking
+# Ori Yair Yaakov  
+## Backend Development • RAG • Networking
    
 - Full-Stack & Backend Developer   
 - B.Sc. Computer Science 
