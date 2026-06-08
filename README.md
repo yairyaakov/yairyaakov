@@ -12,9 +12,9 @@ Computer Science graduate and Dean's List recipient with interests in backend de
 
 | Project | Description |
 |----------|-------------|
-| RAG Service | Conversational search across uploaded documents using semantic retrieval and LLMs |
-| QUIC Protocol Implementation | QUIC transport protocol with congestion control, packet recovery, and concurrent streams |
-| AI Crypto Advisor | Backend platform for personalized cryptocurrency recommendations |
+| [RAG Service](link) | Conversational search across uploaded documents using semantic retrieval and LLMs |
+| [QUIC Protocol Implementation](link) | QUIC transport protocol with congestion control, packet recovery, and concurrent streams |
+| [AI Crypto Advisor]([link](https://github.com/yairyaakov/AI-Crypto-Advisor)) | Backend platform for personalized cryptocurrency recommendations |
 ---
 
 ### Languages and Tools
