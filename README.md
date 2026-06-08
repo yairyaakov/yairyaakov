@@ -2,7 +2,8 @@
 ### Backend Development • RAG • System Design 
 
 Computer Science graduate and Dean's List recipient.
-- [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com) 
+
+[LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com) 
 
 
 ---
