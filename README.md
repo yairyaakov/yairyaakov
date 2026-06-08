@@ -8,14 +8,14 @@
 ס
 ---
 
-### 🧑‍💻 About Me
+### About Me
 - GPA: 91, Dean’s List, Ariel University  
 - Experience in **Java, Python, C, C++, JavaScript, SQL**  
 - Projects: Retrieval Augmented Generation (RAG) Service, AI Crypto Advizor, QUIC  
 
 ---
 
-### 🚀 Languages and Tools
+### Languages and Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
