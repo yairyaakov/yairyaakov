@@ -9,7 +9,7 @@
 ---
 
 ### About Me
-- Computer Science graduate and Dean's List recipient with interests in backend development, RAG, and System Design.
+Computer Science graduate and Dean's List recipient with interests in backend development, RAG, and System Design.
 ### Featured Projects
 
 | Project | Description |
