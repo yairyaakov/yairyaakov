@@ -1,8 +1,6 @@
 # Ori Yair Yaakov   <img align="right" src="facePic.jpg" alt="Ori Yair Yaakov" width="100"/>
 ### Backend Development • RAG • System Design 
 
-Computer Science graduate and Dean's List recipient.
-
 [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com) 
 
 
