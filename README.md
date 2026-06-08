@@ -1,7 +1,7 @@
-# Ori Yair Yaakov  
-### Backend Development • RAG • Networking <p align="left">
+# Ori Yair Yaakov   <p align="left">
   <img align="right" src="facePic.jpg" alt="Ori Yair Yaakov" width="100"/>
 </p>
+### Backend Development • RAG • Networking 
    
 - Full-Stack & Backend Developer   
 - B.Sc. Computer Science 
