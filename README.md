@@ -10,9 +10,15 @@
 
 ### About Me
 - GPA: 91, Dean’s List, Ariel University  
-- Experience in **Java, Python, C, C++, JavaScript, SQL**  
-- Projects: Retrieval Augmented Generation (RAG) Service, AI Crypto Advizor, QUIC  
+- Experience in **Java, Python, C, C++, JavaScript, SQL**
+- 
+### Featured Projects
 
+| Project | Description |
+|----------|-------------|
+| RAG Service | Conversational search across uploaded documents using semantic retrieval and LLMs |
+| QUIC Protocol Implementation | QUIC transport protocol with congestion control, packet recovery, and concurrent streams |
+| AI Crypto Advisor | Backend platform for personalized cryptocurrency recommendations |
 ---
 
 ### Languages and Tools
