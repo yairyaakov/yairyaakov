@@ -5,7 +5,7 @@
 - B.Sc. Computer Science 
 - How to reach me [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com) 
 
-ס
+
 ---
 
 ### About Me
