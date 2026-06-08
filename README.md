@@ -1,13 +1,13 @@
 # Ori Yair Yaakov  
-### Backend Development • RAG • Networking
+### Backend Development • RAG • Networking <p align="left">
+  <img align="right" src="facePic.jpg" alt="Ori Yair Yaakov" width="100"/>
+</p>
    
 - Full-Stack & Backend Developer   
 - B.Sc. Computer Science 
 - How to reach me [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com) 
 
-<p align="left">
-  <img align="right" src="facePic.jpg" alt="Ori Yair Yaakov" width="100"/>
-</p>
+
 ---
 
 ### 🧑‍💻 About Me
