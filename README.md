@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ori Yair Yaakov  
-
-🎓 B.Sc. Computer Science - Ariel University   
-💻 Full-Stack & Backend Developer 
-🌱 Exploring AI, Machine Learning & System Design  
+ Backend Development • RAG • Networking
+   
+💻 Full-Stack & Backend Developer   
+🎓 B.Sc. Computer Science 
 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yairyaakov/) | [Email](mailto:yair852258@gmail.com)  
 <p align="left">
   <img src="facePic.jpg" alt="Ori Yair Yaakov" width="125"/>
@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 - 👨‍🎓 GPA: 91, Dean’s List, Ariel University  
 - 💡 Experience in **Java, Python, C, C++, JavaScript, SQL**  
-- ⚡ Projects: Retrieval Augmented Generation (RAG) Service, Football Team Momentum Analysis, Facebook MCP Automation Server  
+- ⚡ Projects: Retrieval Augmented Generation (RAG) Service, AI Crypto Advizor, QUIC  
 
 ---
 
